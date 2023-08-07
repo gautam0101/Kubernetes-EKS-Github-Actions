@@ -4,7 +4,7 @@
 AWS_PROFILE=default
 AWS_REGION=us-east-2
 # project variables
-PROJECT_NAME=kubernetes-github-actions-shubham-test
+PROJECT_NAME=kubernetes-github-actions-gautam-review
 WEBSITE_PORT=3000
 
 # the directory containing the script file

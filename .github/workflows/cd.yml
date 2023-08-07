@@ -10,7 +10,7 @@ on:
 
 env: 
   AWS_REGION: us-east-2
-  ECR_REPOSITORY: kubernetes-github-actions-shubham-test
+  ECR_REPOSITORY: kubernetes-github-actions-gautam-review
   SHORT_SHA: $(echo ${{ github.sha }} | cut -c 1-8)
 
 jobs:
